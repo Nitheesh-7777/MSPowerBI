@@ -6,4 +6,4 @@ This repository contains a Power BI report analyzing sales data.
 👉 [Download Power BI Report](./EmployeeRelationalData.pbix)
 
 🖼️ **Dashboard Preview:**  
-![Power BI Preview](./DashhboardView.pdf)
+![Power BI Preview](./DashboardView.pdf)
